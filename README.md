@@ -19,7 +19,7 @@ The generalized temperature range for coral health in the game is as follows:
 
 which is based on the information in "In what types of water do corals live?" by the NOAA (https://oceanservice.noaa.gov/facts/coralwaters.html).
 
-Note: There is a 1-in-15 chance each round that a natural disaster strikes
+For more information, see the user guide.
 
 ## Project Structure
 This project was designed with the MVC (Model-View-Controller) pattern.
